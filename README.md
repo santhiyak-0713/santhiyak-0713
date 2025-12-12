@@ -45,7 +45,7 @@ I believe in learning by building projects and continuously improving my technic
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/santhiyakathiresan1213
+- GitHub: https://github.com/santhiyak-0713
 - LinkedIn: https://www.linkedin.com/in/santhiya-kathiresan/
 
 ---
