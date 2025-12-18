@@ -24,8 +24,8 @@ I believe in learning by building projects and continuously improving my technic
 
 ## 📂 Projects
 - 🔹 **Customer Churn Prediction**
-- 🔹 **House Price Prediction**
-- 🔹 **Spam vs Not Spam Classification**
+- 🔹 **Text Summarization**
+- 🔹 **Music Gener Classification**
 - 🔹 **Image Classification (Basic)**
 
 ---
