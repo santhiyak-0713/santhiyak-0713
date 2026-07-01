@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Santhiya
 
-🎓 **3rd Year Data Science Student**  
+🎓 **Final Year Data Science Student**  
 💡 Passionate about solving real-world problems using data  
 📍 India  
 
